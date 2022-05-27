@@ -1,0 +1,11 @@
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/NodemassStore
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/appsettings.Development.json
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/appsettings.json
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/NodemassStore.dll
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/NodemassStore.deps.json
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/NodemassStore.runtimeconfig.json
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/NodemassStore.pdb
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/Microsoft.OpenApi.dll
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/yasmikash/dotnet-apps/NodemassStore/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
